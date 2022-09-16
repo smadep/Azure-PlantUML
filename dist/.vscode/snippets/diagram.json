@@ -63,22 +63,6 @@
       "$0"
     ]
   },
-  "AzureBatchAI": {
-    "prefix": "Azure Batch A I",
-    "description": "Add Azure Batch A I to diagram",
-    "body": [
-      "AzureBatchAI(${1:alias}, \"${2:label}\", \"${3:technology}\")",
-      "$0"
-    ]
-  },
-  "AzureBatchAI_Descr": {
-    "prefix": "Azure Batch A I with Description",
-    "description": "Add Azure Batch A I with Description to diagram",
-    "body": [
-      "AzureBatchAI(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
-      "$0"
-    ]
-  },
   "AzureBotService": {
     "prefix": "Azure Bot Service",
     "description": "Add Azure Bot Service to diagram",
