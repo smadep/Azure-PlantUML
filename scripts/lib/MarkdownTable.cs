@@ -9,7 +9,7 @@ public static class MarkdownTable
         Console.WriteLine("Generating Markdown table...");
 
         var sbTable = new StringBuilder();
-        sbTable.AppendLine("Category | Macro (Name) | <pre>Color</pre> | <pre>Mono </pre> | Url");
+        sbTable.AppendLine("Category | Macro (Name) | <pre>Color</pre> | <pre>Mono </pre> | <pre>Url </pre>");
         sbTable.AppendLine("  ---    |  ---  | :---:  | :---: | ---");
 
         var currentCategory = "";
@@ -35,14 +35,14 @@ public static class MarkdownTable
 
             if(File.Exists(Path.Combine(distFolder, $"{category}/{entityName}.png")))
             {
-                sbTable.Append($"![{entityName}](dist/{category}/{entityName}.png?raw=true) | ");
+                sbTable.Append($"![{entityName}]({category}/{entityName}.png?raw=true) | ");
             }  
             else 
             {
                 sbTable.Append($" |");
             }
             
-            sbTable.Append($"![{entityName}](dist/{category}/{entityName}(m).png?raw=true) | ");
+            sbTable.Append($"![{entityName}]({category}/{entityName}(m).png?raw=true) | ");
             sbTable.AppendLine($"{category}/{entityName}.puml");
         }
 
