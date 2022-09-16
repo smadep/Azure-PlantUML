@@ -1,0 +1,10 @@
+sprite $PowerPlatform [70x70/16z] {
+tTPNTeGm38NXQuIGPRp_xKxN79pGX4ZzdfDx_j5KVB6q3dkGFfN6E54OctHpfTPAMCUh8xPI-K3AsAYRCxntfQRGLMobn59ifekas4WT72dBBJMKOYCrS9Mc
+nPFYQs7VoXXAiHKEfoo_UDNi6ocObNqFgCEiD5VYI36TeS_wFDse8-4WcemeZjFNnhYKaZhgtxWrlDqFTRzMmQp--RVoa8qklOHeQOGT8_CfnAifvK2A74rn
+NgN_FLVf_zbLzFUyLlIKgtHdN4NEk8hYXAjad70L1g9NKSO2ui7-fq6ktyfYNpbbB1CP7bpc9NYK6LfKuD4LeutaMz5P0fUain9yOYc65b9YCLbp7e18J7vA
+yFimOId-cDn8E2At1Xn2iHGJIp4KIp6n54En5DEaH6D44Y8U4o83GaWU4cBaZc4YCGXZaGv_tXK
+}
+
+AzureEntityColoring(PowerPlatform)
+!define PowerPlatform(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerPlatform, PowerPlatform)
+!define PowerPlatform(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerPlatform, PowerPlatform)

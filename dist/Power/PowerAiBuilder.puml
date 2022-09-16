@@ -1,0 +1,11 @@
+sprite $PowerAiBuilder [70x70/16z] {
+rT07akCW48LXe3Fu_kTTAnLO1hN2fladMF6hyWi_eoWcSJjKZhSGjYcU3rNLbAuRQ5k4EYDc1jUCP4sgzJ1T6gHDhOdZbK76qHa3p0tSGTHEfCaPv6GodeUi
+KnxFum-Iwy-5UP8khtIoKHhtI2LyfRPZQ20u2luMXVwn8ioQ7oh2SvOVACfROlccejocEUSRYl0ktIliAihV2Rb8gsJbVbWDo8TPDXu7Yn4jEuhmON5IibCX
+TdeZqJ5A0IHvf9Gf042MCIIEKXPbYgJloBkgz8sgB8vy4OvIoau1ND-gXAUK9e36gNbA-GoQw40foyyW-8Zwok3raGB8NSMh0G3d-Bw2JNHDURr_Aj1qHdaj
+FqlOYtIil3gD5FspokkIel-Xek6TF59KbCDKodSLdOAmXlUKAGfDSbcnoU0OFefsNP4KlafN5GZTw8h2OPIvIYqyL-YfGaXJDvLAt5VgwxuYVQKIDGZZSa-X
+JXYEed9AIS59V0M2NxHZ1MCu5UInWYcS3ij06HZ-F8RU8FuyERuFSJY8Nogl0kiXrY_pl_SB
+}
+
+AzureEntityColoring(PowerAiBuilder)
+!define PowerAiBuilder(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerAiBuilder, PowerAiBuilder)
+!define PowerAiBuilder(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerAiBuilder, PowerAiBuilder)

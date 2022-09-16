@@ -1,0 +1,11 @@
+sprite $PowerFx [70x70/16z] {
+xT47ijim30PXK21OGEN-ruqBNhDMCPdUFfVfEz0lcVLVcl2aO6EAoRdDnomvrSUy92oD5SAsiKA_noLTs5YIrePbHP2E9SByzvcsBaxBliEqNDb9JCkK6Yoc
+9RhFw_8zAccfCee-id4vvMYZIgXwPFlU81FdRL392dhh8CiTL8g2t8cULxgIse64ZCSGF2Kag0nev6pU7pHvrI7JZesBvlY6uXYGYJr4YhnJQE1CgjEqOGSb
+a-umRL0QE9FY3jC6fu4pQGxJhW_i3jDE3MplD7UOTc9WUwz4HGLa6fWgrkyPGJimY5ZpQqO5DQWuLQfVz2I47uagvLOHfakL9YpjW2hc5oPCbofblXBh5hjy
+RdztVYMiKiNovMCbJ5HsK6FF3vfVRVFZ6bMwNrKX7I85AyDlqkosHfKQ5JfcuFDGngC2onX4EbNY57vDF2rbnbl5PgR5IdjNyJGzRO1JtDlJQGjMUbJ2zdnQ
+oDI8mC0yBLR6OyMUJ4kPTgXucfysAlKOyJOtRIYNIeUAR-Uh5AALAlcqyga04u68wnVUCrGs4JrMkeHazQ1O_aYJNEd3VPkS-kyp
+}
+
+AzureEntityColoring(PowerFx)
+!define PowerFx(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerFx, PowerFx)
+!define PowerFx(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerFx, PowerFx)

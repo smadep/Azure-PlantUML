@@ -1,0 +1,9 @@
+sprite $PowerBi [70x70/16z] {
+xSo7kOCX30D0m39c_uLVLNfCVdtfvGQuiemvzGqK4LWm8HSN9ll4XSMPIsTovaBQyba-osUfM_oVl3Gx0k9IxIZNbfOiyKXBlDQ2ynSOzfRG5m1xIwWB39k5
+HQWBQBE4ke095nRY0jeieI_OMqXQWFCNG5zgEsJgmcJUz5DBE-v5bi_oMSPhBUxdB_3p5XRdB-vSDeswEFoynPYSiTWF5jgodnZydCN8qsN4c2_695kOv0kB
+sS9YJ1OM-S8aNrZC5nQJnHOiJ9A5nNpXa2-sPEaNMU8sIzENNf96MRoMbMy
+}
+
+AzureEntityColoring(PowerBi)
+!define PowerBi(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerBi, PowerBi)
+!define PowerBi(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerBi, PowerBi)

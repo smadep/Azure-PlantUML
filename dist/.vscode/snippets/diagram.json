@@ -3599,6 +3599,150 @@
       "$0"
     ]
   },
+  "PowerAiBuilder": {
+    "prefix": "Power Ai Builder",
+    "description": "Add Power Ai Builder to diagram",
+    "body": [
+      "PowerAiBuilder(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerAiBuilder_Descr": {
+    "prefix": "Power Ai Builder with Description",
+    "description": "Add Power Ai Builder with Description to diagram",
+    "body": [
+      "PowerAiBuilder(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerAutomate": {
+    "prefix": "Power Automate",
+    "description": "Add Power Automate to diagram",
+    "body": [
+      "PowerAutomate(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerAutomate_Descr": {
+    "prefix": "Power Automate with Description",
+    "description": "Add Power Automate with Description to diagram",
+    "body": [
+      "PowerAutomate(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerBi": {
+    "prefix": "Power Bi",
+    "description": "Add Power Bi to diagram",
+    "body": [
+      "PowerBi(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerBi_Descr": {
+    "prefix": "Power Bi with Description",
+    "description": "Add Power Bi with Description to diagram",
+    "body": [
+      "PowerBi(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerCanvasApp": {
+    "prefix": "Power Canvas App",
+    "description": "Add Power Canvas App to diagram",
+    "body": [
+      "PowerCanvasApp(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerCanvasApp_Descr": {
+    "prefix": "Power Canvas App with Description",
+    "description": "Add Power Canvas App with Description to diagram",
+    "body": [
+      "PowerCanvasApp(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerDataverse": {
+    "prefix": "Power Dataverse",
+    "description": "Add Power Dataverse to diagram",
+    "body": [
+      "PowerDataverse(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerDataverse_Descr": {
+    "prefix": "Power Dataverse with Description",
+    "description": "Add Power Dataverse with Description to diagram",
+    "body": [
+      "PowerDataverse(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerFx": {
+    "prefix": "Power Fx",
+    "description": "Add Power Fx to diagram",
+    "body": [
+      "PowerFx(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerFx_Descr": {
+    "prefix": "Power Fx with Description",
+    "description": "Add Power Fx with Description to diagram",
+    "body": [
+      "PowerFx(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerPages": {
+    "prefix": "Power Pages",
+    "description": "Add Power Pages to diagram",
+    "body": [
+      "PowerPages(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerPages_Descr": {
+    "prefix": "Power Pages with Description",
+    "description": "Add Power Pages with Description to diagram",
+    "body": [
+      "PowerPages(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerPlatform": {
+    "prefix": "Power Platform",
+    "description": "Add Power Platform to diagram",
+    "body": [
+      "PowerPlatform(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerPlatform_Descr": {
+    "prefix": "Power Platform with Description",
+    "description": "Add Power Platform with Description to diagram",
+    "body": [
+      "PowerPlatform(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
+  "PowerVirtualAgents": {
+    "prefix": "Power Virtual Agents",
+    "description": "Add Power Virtual Agents to diagram",
+    "body": [
+      "PowerVirtualAgents(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "PowerVirtualAgents_Descr": {
+    "prefix": "Power Virtual Agents with Description",
+    "description": "Add Power Virtual Agents with Description to diagram",
+    "body": [
+      "PowerVirtualAgents(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "AzureAccessControl": {
     "prefix": "Azure Access Control",
     "description": "Add Azure Access Control to diagram",

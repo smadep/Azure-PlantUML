@@ -1,0 +1,10 @@
+sprite $PowerAutomate [70x70/16z] {
+xT87SWKX30JHJn0CxDx_kixPQYzoJds0LvIOqr_flrmXg_QqJ8XjI-sNIHsKkOuC8RD2N2DJbpLNqGfmsQRhp6N66h9ttLJXCWmuY5HS1iv9Y9Gz9S4h294I
+C4nSfgUTlCeD0GsjCHLU0GYjptPiQZZvw-k4R1fki3vG01amc-aYdP1c6HWFWPgP9N_4wqWt8oR1JGWn_yBvoL0E46Bg8mI_n-wgH-kR2mWn7TO6234wGfez
+hhmmOl5GdfPnDdqLOIRo4lxlTBYsbTCaHW8A8J8eEOW225wtyr3yojiG7cyRK0In089RgOJq09A_1ac1oQhvkMjZ1FBMfYXI0iWWf0Oc6q9Q5B78P7i0gU-1
+P4QW-DhU7-6rZKzU6oCjlZQd-DgymaDngq44ojMULOjVFltn_Zi7
+}
+
+AzureEntityColoring(PowerAutomate)
+!define PowerAutomate(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerAutomate, PowerAutomate)
+!define PowerAutomate(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerAutomate, PowerAutomate)

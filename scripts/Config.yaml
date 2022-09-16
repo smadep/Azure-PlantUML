@@ -606,3 +606,23 @@ Categories:
     Fit:    true
   - Source: Properties
     Target: AzureProperties
+- Name: Power
+  Services:
+    - Source: PowerApps_scalable
+      Target: PowerCanvasApp
+    - Source: AIBuilder_scalable
+      Target: PowerAiBuilder
+    - Source: Dataverse_scalable
+      Target: PowerDataverse
+    - Source: PowerAutomate_scalable
+      Target: PowerAutomate
+    - Source: PowerFx_scalable
+      Target: PowerFx
+    - Source: PowerBI_scalable
+      Target: PowerBi
+    - Source: PowerPlatform_scalable
+      Target: PowerPlatform
+    - Source: PowerVirtualAgents_scalable
+      Target: PowerVirtualAgents
+    - Source: PowerPages_scalable
+      Target: PowerPages

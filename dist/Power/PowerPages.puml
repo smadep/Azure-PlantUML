@@ -1,0 +1,11 @@
+sprite $PowerPages [70x70/16z] {
+fT9PRiCm38HXhTHw__DMWJqbGCIbMVvv7_2J4xHYIZ5uI_cKWgzy5np5_5lqQL1oQf1JWw9BmnaFARKKxqogdyICLLNgdKCLAsTJIGrdLx76SGuqpXdMU5JG
+wEUKyrCrCYfYv5CsQEYg5hxYjvSQmWXchWcKL0qFy8uiFsjuGfr9VsZeER7og25EFIT-qv18cSdY4l4IIezlGgOgQtY5x4739RBNS8ddcB5t3h9CjjRUQxNW
+GhLzHauZo6ArQDRT_rNpCuB8hc8DigkavbbL39f_gfhGc5NjJD3W4LbwesedcZnYLZMqnOYkuWa4pNCrYDh005hgoEhYaZx6x9XXZMabdv5Fn1fzHFxvQk_N
+p9GQmxEqZfMZOerQ2bpiTzVCx7tnoElFJBnoxPWrMC4CTamQUGkQ9ery5-wrHduZhEZdnF2roXEShf7byIM31l4ntDGrighC28r3LODU_5EreL6ZvvajDNRL
+Ndlh6bqrMMDN8Gh8eSf1PbTrQ8oHJuEoJyCgdmOHDBvIQobe_G
+}
+
+AzureEntityColoring(PowerPages)
+!define PowerPages(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerPages, PowerPages)
+!define PowerPages(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerPages, PowerPages)

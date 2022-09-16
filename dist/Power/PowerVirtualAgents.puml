@@ -1,0 +1,9 @@
+sprite $PowerVirtualAgents [70x70/16z] {
+xTP9SiH024HH93G2zp-lUvVg8Xob8Zsx_vuNi4F-GVEw3RP8RaDrHhT2dF9INifHw5ELbpBDrrItYg9spTtFenAZ0FdRYZ-oir2Bk0_EvUugraMS880uWxXv
+Nyb0HlfAbq25GpBYHQIfG9m9SKj8jzLpPaE47QjuBfhSsZPfSeGwp25z1PQ_mwnT9LkPMSOKECueO89Im50A65u1Goj1AM0e1GobW65t0QDL9JnGLexR19gI
+CjimialkyfBfeqoOFZLFSgCMEQJI-eH43H5b42WWweWeYq29u11H1e4ImIEYG3Y5HqI1S0gFo0I4QJqt6UqD
+}
+
+AzureEntityColoring(PowerVirtualAgents)
+!define PowerVirtualAgents(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerVirtualAgents, PowerVirtualAgents)
+!define PowerVirtualAgents(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerVirtualAgents, PowerVirtualAgents)

@@ -1,0 +1,103 @@
+sprite $PowerAiBuilder [70x70/16z] {
+rT07akCW48LXe3Fu_kTTAnLO1hN2fladMF6hyWi_eoWcSJjKZhSGjYcU3rNLbAuRQ5k4EYDc1jUCP4sgzJ1T6gHDhOdZbK76qHa3p0tSGTHEfCaPv6GodeUi
+KnxFum-Iwy-5UP8khtIoKHhtI2LyfRPZQ20u2luMXVwn8ioQ7oh2SvOVACfROlccejocEUSRYl0ktIliAihV2Rb8gsJbVbWDo8TPDXu7Yn4jEuhmON5IibCX
+TdeZqJ5A0IHvf9Gf042MCIIEKXPbYgJloBkgz8sgB8vy4OvIoau1ND-gXAUK9e36gNbA-GoQw40foyyW-8Zwok3raGB8NSMh0G3d-Bw2JNHDURr_Aj1qHdaj
+FqlOYtIil3gD5FspokkIel-Xek6TF59KbCDKodSLdOAmXlUKAGfDSbcnoU0OFefsNP4KlafN5GZTw8h2OPIvIYqyL-YfGaXJDvLAt5VgwxuYVQKIDGZZSa-X
+JXYEed9AIS59V0M2NxHZ1MCu5UInWYcS3ij06HZ-F8RU8FuyERuFSJY8Nogl0kiXrY_pl_SB
+}
+
+AzureEntityColoring(PowerAiBuilder)
+!define PowerAiBuilder(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerAiBuilder, PowerAiBuilder)
+!define PowerAiBuilder(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerAiBuilder, PowerAiBuilder)
+
+sprite $PowerAutomate [70x70/16z] {
+xT87SWKX30JHJn0CxDx_kixPQYzoJds0LvIOqr_flrmXg_QqJ8XjI-sNIHsKkOuC8RD2N2DJbpLNqGfmsQRhp6N66h9ttLJXCWmuY5HS1iv9Y9Gz9S4h294I
+C4nSfgUTlCeD0GsjCHLU0GYjptPiQZZvw-k4R1fki3vG01amc-aYdP1c6HWFWPgP9N_4wqWt8oR1JGWn_yBvoL0E46Bg8mI_n-wgH-kR2mWn7TO6234wGfez
+hhmmOl5GdfPnDdqLOIRo4lxlTBYsbTCaHW8A8J8eEOW225wtyr3yojiG7cyRK0In089RgOJq09A_1ac1oQhvkMjZ1FBMfYXI0iWWf0Oc6q9Q5B78P7i0gU-1
+P4QW-DhU7-6rZKzU6oCjlZQd-DgymaDngq44ojMULOjVFltn_Zi7
+}
+
+AzureEntityColoring(PowerAutomate)
+!define PowerAutomate(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerAutomate, PowerAutomate)
+!define PowerAutomate(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerAutomate, PowerAutomate)
+
+sprite $PowerBi [70x70/16z] {
+xSo7kOCX30D0m39c_uLVLNfCVdtfvGQuiemvzGqK4LWm8HSN9ll4XSMPIsTovaBQyba-osUfM_oVl3Gx0k9IxIZNbfOiyKXBlDQ2ynSOzfRG5m1xIwWB39k5
+HQWBQBE4ke095nRY0jeieI_OMqXQWFCNG5zgEsJgmcJUz5DBE-v5bi_oMSPhBUxdB_3p5XRdB-vSDeswEFoynPYSiTWF5jgodnZydCN8qsN4c2_695kOv0kB
+sS9YJ1OM-S8aNrZC5nQJnHOiJ9A5nNpXa2-sPEaNMU8sIzENNf96MRoMbMy
+}
+
+AzureEntityColoring(PowerBi)
+!define PowerBi(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerBi, PowerBi)
+!define PowerBi(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerBi, PowerBi)
+
+sprite $PowerCanvasApp [70x70/16z] {
+jTFTqkiW28LXh8WHSl-tk__iEd1sLwJEVEzvdYGAykDLbNUlMkImxkxpOJMpUewu0p5xoK7c_nf0ZXYTICHL3HNviWeaBhDJfgo8eKDas5AJBne48Sm6SRDZ
+fXDaffBAE99db2DvfW89ezNy7NSxPWgC64PAhDHOPvPNKaWCEsMwGy6vi5HLIFOsF3PCKwMChaW4_v8P6PHu4uWYb2ahCcC8-eJydvD3OGoGjTkVaAQjBiW8
+H1aW0BJzQM5wiEx14J04eKnRW1bMIkEf-o88chjG8t9CMu2LUSMkk-DJskT49FRAP1fFUYIO04AgaL7kwrdHoBHLUYJQ_f54ektfIebjbnaOEZ0rWt06Ew19
+n2Y2RUGDCyAGfUO8OiXi1CbjZI4ppo3Tkgs8ob998jqOmfc-43CZoAnca9MH3ob3G20ZoApd4312kfQH9GIO8gmHWPmWw2Ky3pG8GH1ot_w8L94KSr-TfxAf
+GhcF4DIWKAP9eWubZX1q4OOWB7zWJ4Y4kS4S8b82Z7Fad2doLJN033BtgHeKrnC4zSc4I2FBanwRlmWO5JbbYe1HEQmsULVhItw-tm
+}
+
+AzureEntityColoring(PowerCanvasApp)
+!define PowerCanvasApp(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerCanvasApp, PowerCanvasApp)
+!define PowerCanvasApp(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerCanvasApp, PowerCanvasApp)
+
+sprite $PowerDataverse [70x70/16z] {
+xTP9Ti8m381XUTIO-r-t8HX3Z5o7lYxvzlnF4bFW7tnzXPJhJKxXhuNCzehpK4e5T_ctVc9xnn6wWWzrrabYFabmYFWgkxk8pL6Bh3BLVfSW8AuoOYiLtuNp
+DhQq2UERuaVcLDN913So9sucVHJPz40uwXMxGWyoNKakZTBmPALY7fM3jeZf0mxgV1yHFV1EzyYc7Rk7OQUX1ohvKCZqIRnAc4Kmlo1z8ZoXs4Rn8YMVL7yb
+Gg8449QHffnN8gI7383hI8CzqnEzud-sA3jO6pf3YFuesJMf41GtGjd5iyhiAgvwiQ9tUSAlvEYE8XzMycSLyIleRBIi29r5SYBB2byxhcLV-UWjqffTrLse
+pYgSNUmkb6OLBUv2ver2OLhXwwCWW4qovbm6pOjG0c0xaqT5w_Aq3G3WfA8sJeFto6aK9kRY_1Nfis9SSbVOZiYGsC4ksk2b8aBrAEJAscx2xULTSV_Hf5UK
+cKLbr-B2p2tn16x5UeNlP2_j1M5NX0DDXZ7b2ohS9HlrKTO87YOL8Lw3Zhm75TChaG1TVAli6PFBaKR7o2t3ItIAG1eYEwkyWZ2WCR85Y8j8XZSwL0hiaESm
+W8DEaTGs9VPH15z-HWIwYFuSSn5jiqrAW5SXuJcHu8z2JEKcnG3_uElh1m
+}
+
+AzureEntityColoring(PowerDataverse)
+!define PowerDataverse(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerDataverse, PowerDataverse)
+!define PowerDataverse(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerDataverse, PowerDataverse)
+
+sprite $PowerFx [70x70/16z] {
+xT47ijim30PXK21OGEN-ruqBNhDMCPdUFfVfEz0lcVLVcl2aO6EAoRdDnomvrSUy92oD5SAsiKA_noLTs5YIrePbHP2E9SByzvcsBaxBliEqNDb9JCkK6Yoc
+9RhFw_8zAccfCee-id4vvMYZIgXwPFlU81FdRL392dhh8CiTL8g2t8cULxgIse64ZCSGF2Kag0nev6pU7pHvrI7JZesBvlY6uXYGYJr4YhnJQE1CgjEqOGSb
+a-umRL0QE9FY3jC6fu4pQGxJhW_i3jDE3MplD7UOTc9WUwz4HGLa6fWgrkyPGJimY5ZpQqO5DQWuLQfVz2I47uagvLOHfakL9YpjW2hc5oPCbofblXBh5hjy
+RdztVYMiKiNovMCbJ5HsK6FF3vfVRVFZ6bMwNrKX7I85AyDlqkosHfKQ5JfcuFDGngC2onX4EbNY57vDF2rbnbl5PgR5IdjNyJGzRO1JtDlJQGjMUbJ2zdnQ
+oDI8mC0yBLR6OyMUJ4kPTgXucfysAlKOyJOtRIYNIeUAR-Uh5AALAlcqyga04u68wnVUCrGs4JrMkeHazQ1O_aYJNEd3VPkS-kyp
+}
+
+AzureEntityColoring(PowerFx)
+!define PowerFx(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerFx, PowerFx)
+!define PowerFx(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerFx, PowerFx)
+
+sprite $PowerPages [70x70/16z] {
+fT9PRiCm38HXhTHw__DMWJqbGCIbMVvv7_2J4xHYIZ5uI_cKWgzy5np5_5lqQL1oQf1JWw9BmnaFARKKxqogdyICLLNgdKCLAsTJIGrdLx76SGuqpXdMU5JG
+wEUKyrCrCYfYv5CsQEYg5hxYjvSQmWXchWcKL0qFy8uiFsjuGfr9VsZeER7og25EFIT-qv18cSdY4l4IIezlGgOgQtY5x4739RBNS8ddcB5t3h9CjjRUQxNW
+GhLzHauZo6ArQDRT_rNpCuB8hc8DigkavbbL39f_gfhGc5NjJD3W4LbwesedcZnYLZMqnOYkuWa4pNCrYDh005hgoEhYaZx6x9XXZMabdv5Fn1fzHFxvQk_N
+p9GQmxEqZfMZOerQ2bpiTzVCx7tnoElFJBnoxPWrMC4CTamQUGkQ9ery5-wrHduZhEZdnF2roXEShf7byIM31l4ntDGrighC28r3LODU_5EreL6ZvvajDNRL
+Ndlh6bqrMMDN8Gh8eSf1PbTrQ8oHJuEoJyCgdmOHDBvIQobe_G
+}
+
+AzureEntityColoring(PowerPages)
+!define PowerPages(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerPages, PowerPages)
+!define PowerPages(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerPages, PowerPages)
+
+sprite $PowerPlatform [70x70/16z] {
+tTPNTeGm38NXQuIGPRp_xKxN79pGX4ZzdfDx_j5KVB6q3dkGFfN6E54OctHpfTPAMCUh8xPI-K3AsAYRCxntfQRGLMobn59ifekas4WT72dBBJMKOYCrS9Mc
+nPFYQs7VoXXAiHKEfoo_UDNi6ocObNqFgCEiD5VYI36TeS_wFDse8-4WcemeZjFNnhYKaZhgtxWrlDqFTRzMmQp--RVoa8qklOHeQOGT8_CfnAifvK2A74rn
+NgN_FLVf_zbLzFUyLlIKgtHdN4NEk8hYXAjad70L1g9NKSO2ui7-fq6ktyfYNpbbB1CP7bpc9NYK6LfKuD4LeutaMz5P0fUain9yOYc65b9YCLbp7e18J7vA
+yFimOId-cDn8E2At1Xn2iHGJIp4KIp6n54En5DEaH6D44Y8U4o83GaWU4cBaZc4YCGXZaGv_tXK
+}
+
+AzureEntityColoring(PowerPlatform)
+!define PowerPlatform(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerPlatform, PowerPlatform)
+!define PowerPlatform(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerPlatform, PowerPlatform)
+
+sprite $PowerVirtualAgents [70x70/16z] {
+xTP9SiH024HH93G2zp-lUvVg8Xob8Zsx_vuNi4F-GVEw3RP8RaDrHhT2dF9INifHw5ELbpBDrrItYg9spTtFenAZ0FdRYZ-oir2Bk0_EvUugraMS880uWxXv
+Nyb0HlfAbq25GpBYHQIfG9m9SKj8jzLpPaE47QjuBfhSsZPfSeGwp25z1PQ_mwnT9LkPMSOKECueO89Im50A65u1Goj1AM0e1GobW65t0QDL9JnGLexR19gI
+CjimialkyfBfeqoOFZLFSgCMEQJI-eH43H5b42WWweWeYq29u11H1e4ImIEYG3Y5HqI1S0gFo0I4QJqt6UqD
+}
+
+AzureEntityColoring(PowerVirtualAgents)
+!define PowerVirtualAgents(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, PowerVirtualAgents, PowerVirtualAgents)
+!define PowerVirtualAgents(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, PowerVirtualAgents, PowerVirtualAgents)
+
