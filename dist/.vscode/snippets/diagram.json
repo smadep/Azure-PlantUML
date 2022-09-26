@@ -3855,6 +3855,22 @@
       "$0"
     ]
   },
+  "SharepointLogo": {
+    "prefix": "Sharepoint Logo",
+    "description": "Add Sharepoint Logo to diagram",
+    "body": [
+      "SharepointLogo(${1:alias}, \"${2:label}\", \"${3:technology}\")",
+      "$0"
+    ]
+  },
+  "SharepointLogo_Descr": {
+    "prefix": "Sharepoint Logo with Description",
+    "description": "Add Sharepoint Logo with Description to diagram",
+    "body": [
+      "SharepointLogo(${1:alias}, \"${2:label}\", \"${3:technology}\", \"${4:description}\")",
+      "$0"
+    ]
+  },
   "AzureStack": {
     "prefix": "Azure Stack",
     "description": "Add Azure Stack to diagram",

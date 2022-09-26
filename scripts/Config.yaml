@@ -628,5 +628,5 @@ Categories:
       Target: PowerPages
 - Name: Sharepoint
   Services:
-    - Source: Microsoft_Office_SharePoint
-      Target: Sharepoint
+    - Source: Microsoft_Office_SharePoint_plain
+      Target: SharepointLogo

@@ -257,6 +257,8 @@ Security | AzureDefender </br> (Azure Defender) | ![AzureDefender](Security/Azur
 Security | AzureKeyVault </br> (Azure Key Vault) | ![AzureKeyVault](Security/AzureKeyVault.png?raw=true) | ![AzureKeyVault](Security/AzureKeyVault(m).png?raw=true) | Security/AzureKeyVault.puml
 Security | AzureSecurityCenter </br> (Azure Security Center) | ![AzureSecurityCenter](Security/AzureSecurityCenter.png?raw=true) | ![AzureSecurityCenter](Security/AzureSecurityCenter(m).png?raw=true) | Security/AzureSecurityCenter.puml
 Security | AzureSentinel </br> (Azure Sentinel) | ![AzureSentinel](Security/AzureSentinel.png?raw=true) | ![AzureSentinel](Security/AzureSentinel(m).png?raw=true) | Security/AzureSentinel.puml
+**Sharepoint** | | | | **Sharepoint/all.puml**
+Sharepoint | SharepointLogo </br> (Sharepoint Logo) | ![SharepointLogo](Sharepoint/SharepointLogo.png?raw=true) | ![SharepointLogo](Sharepoint/SharepointLogo(m).png?raw=true) | Sharepoint/SharepointLogo.puml
 **Stack** | | | | **Stack/all.puml**
 Stack | AzureStack </br> (Azure Stack) | ![AzureStack](Stack/AzureStack.png?raw=true) | ![AzureStack](Stack/AzureStack(m).png?raw=true) | Stack/AzureStack.puml
 Stack | AzureStackCapacity </br> (Azure Stack Capacity) | ![AzureStackCapacity](Stack/AzureStackCapacity.png?raw=true) | ![AzureStackCapacity](Stack/AzureStackCapacity(m).png?raw=true) | Stack/AzureStackCapacity.puml
