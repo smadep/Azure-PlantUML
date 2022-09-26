@@ -626,3 +626,7 @@ Categories:
       Target: PowerVirtualAgents
     - Source: PowerPages_scalable
       Target: PowerPages
+- Name: Sharepoint
+  Services:
+    - Source: Microsoft_Office_SharePoint
+      Target: Sharepoint
